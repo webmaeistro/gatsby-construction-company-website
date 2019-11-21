@@ -1,8 +1,8 @@
 {
-  "name": "kontent-template-gatsby-landing-page-photon",
-  "description": "Kentico Kontent & GatsbyJs web template.",
+  "name": "byggfirma",
+  "description": "danbygg repo 2",
   "version": "1.0.1",
-  "author": "Ondřej Chrastina <chrastina.ondra@gmail.com> (https://github.com/Simply007)",
+  "author": "Martin Andersen <marander@pm.me>",
   "keywords": [
     "kentico",
     "kentico kontent",
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Simply007/kontent-template-gatsby-landing-page-photon"
+    "url": "https://github.com/webmaeistro/gatsby-construction-company-website"
   },
   "dependencies": {
-    "@kentico/gatsby-source-kontent": "4.0.0-beta4",
+    "@kentico/gatsby-source-kontent": "^4.0.0-beta4",
     "gatsby": "^2.0.76",
     "gatsby-plugin-manifest": "^2.0.9",
     "gatsby-plugin-offline": "^2.0.16",
